@@ -3,7 +3,6 @@
 ## install
 ```
 brew install neovim
-
 ```
 
 ## install other tools
@@ -15,7 +14,6 @@ brew install neovim
 brew install lazygit
 brew install ripgrep
 brew install fd
-
 ```
 
 ## config neovim
